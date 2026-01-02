@@ -41,12 +41,7 @@ Bu proje, kullanıcıların çevre konusundaki bilgilerini 5 soruluk kısa bir t
 
 ---
 
-## ▶️ Proje Nasıl Çalışır?
 
-1. Kullanıcı web sitesine giriş yapar
-2. 5 soruluk çevre testini çözer
-3. Test bitince sonuç ekranı görüntülenir
-4. Kullanıcı isterse her soru için önerilen kaynakları inceleyebilir
 
 **Görseller / Medya:**
 
@@ -69,16 +64,6 @@ Bu projeyi VS Code üzerinden yaptım.(<img width="1918" height="1013" alt="imag
 
 ---
 
-## 💬 Geri Bildirim ve Katkı
-
-* GitHub üzerinden yorum yaparak
-* Öğretmen ve arkadaşlardan alınan sözlü geri bildirimlerle
-
-Gelen önerilere göre:
-
-* Sorular güncellenebilir
-* Kaynaklar geliştirilebilir
-* Tasarım iyileştirilebilir
 
 ---
 
