@@ -17,7 +17,7 @@ Bu proje, kullanıcıların çevre konusundaki bilgilerini 5 soruluk kısa bir t
 
 **Amaç:**
 
-* İklim değişikliği hakkında farlındalık oluşturmak
+* İklim değişikliği hakkında farkındalık oluşturmak
 * Çevre bilincini artırmak
 * Öğrenmeyi test ile desteklemek
 * Kullanıcıyı araştırmaya ve okumaya teşvik etmek
@@ -63,18 +63,13 @@ Bu proje, kullanıcıların çevre konusundaki bilgilerini 5 soruluk kısa bir t
 
 ## ⚙️ Kurulum ve Kullanım
 
-Bu proje temel bir web sitesi olduğu için ek bir kurulum gerektirmez.
+Bu projeyi VS Code üzerinden yaptım.(<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/3749f12c-d585-474d-a8ac-f0be2f411ddf" />
+)
 
-**Kullanım:**
-
-* Proje dosyaları indirildikten sonra ana dosya tarayıcıda açılır
-* Test çözülerek sonuçlar görüntülenir
 
 ---
 
 ## 💬 Geri Bildirim ve Katkı
-
-Kullanıcılar projeyle ilgili geri bildirimlerini şu yollarla iletebilir:
 
 * GitHub üzerinden yorum yaparak
 * Öğretmen ve arkadaşlardan alınan sözlü geri bildirimlerle
@@ -89,6 +84,5 @@ Gelen önerilere göre:
 
 ## 🌿 Sonuç
 
-Bu proje, çevre sorunlarına dikkat çeken ve kullanıcıyı aktif olarak öğrenmeye teşvik eden eğitici bir web çalışmasıdır. Test ve kaynak önerilerinin birlikte sunulması, projeye kalıcı bir öğrenme değeri kazandırmaktadır.
+Bu proje, çevre sorunlarına dikkat çeken ve kullanıcıyı aktif olarak öğrenmeye teşvik eden eğitici bir web sitesidir. Test ve kaynakları birlikte kullanarak daha fazla bilgi sahibi olabilir.
 
-📢 Proje eğitim amaçlı hazırlanmıştır ve geliştirilmeye açıktır.
