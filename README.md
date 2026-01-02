@@ -17,6 +17,7 @@ Bu proje, kullanıcıların çevre konusundaki bilgilerini 5 soruluk kısa bir t
 
 **Amaç:**
 
+* İklim değişikliği hakkında farlındalık oluşturmak
 * Çevre bilincini artırmak
 * Öğrenmeyi test ile desteklemek
 * Kullanıcıyı araştırmaya ve okumaya teşvik etmek
